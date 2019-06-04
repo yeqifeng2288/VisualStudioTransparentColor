@@ -4846,7 +4846,7 @@
         <Background Type="CT_RAW" Source="FF007ACC" />
       </Color>
       <Color Name="MainWindowSolutionNameActiveBackground">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="2A252526" />
       </Color>
       <Color Name="MainWindowSolutionNameInactiveBackground">
         <Background Type="CT_RAW" Source="FF252526" />
